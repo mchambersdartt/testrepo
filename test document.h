@@ -4,6 +4,13 @@
 
 void main()
 {
-	x = 3;
+	if (someCondition)
+	{
+		x = 3;
+	}
+	else
+	{
+		x = 7;
+	}
 	return;
 }
