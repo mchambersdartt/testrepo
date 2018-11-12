@@ -1,1 +1,9 @@
-version 5
+
+
+
+
+void main()
+{
+	x = 5;
+	return;
+}
